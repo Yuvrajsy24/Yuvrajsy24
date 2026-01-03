@@ -2,7 +2,7 @@
 Undergraduate computer engineering student 👨‍🎓.  <br>Full-stack developer 👨‍💻 with strong DSA fundamentals.  <br>Interested in AI, ML, and real-world problem solving 🚀.<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-singh-3597b0322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhyuvrajs703@gmail.com) 
 
 # 💻 Tech Stack:
