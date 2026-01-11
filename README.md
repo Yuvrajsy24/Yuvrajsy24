@@ -13,7 +13,8 @@ Undergraduate computer engineering student 👨‍🎓.  <br>Full-stack develope
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsy24&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yuvrajsy24&theme=dark&no-frame=true&no-bg=true&margin-w=15&row=1&v=3)
+![](https://github-trophies.vercel.app/?username=Yuvrajsy24&theme=dark&no-frame=true&margin-w=15)
+
 
 
 ---
