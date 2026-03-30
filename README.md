@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Yuvraj Singh 
 Undergraduate computer engineering student 👨‍🎓.  <br>Full-stack developer 👨‍💻 with strong DSA fundamentals.  <br>Interested in AI, ML, and real-world problem solving 🚀.<br>
 
 
